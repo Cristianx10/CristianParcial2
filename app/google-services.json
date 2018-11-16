@@ -1,0 +1,231 @@
+{
+  "project_info": {
+    "project_number": "257967908431",
+    "firebase_url": "https://whatsapp-17f08.firebaseio.com",
+    "project_id": "whatsapp-17f08",
+    "storage_bucket": "whatsapp-17f08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257967908431:android:8cf237984921a8d4",
+        "android_client_info": {
+          "package_name": "com.example.aprendizajeactivo.cristianparcial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257967908431-0i2ts91d1f2ik9rfmibl5edm5amlt74r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aprendizajeactivo.cristianparcial",
+            "certificate_hash": "796eb770b386bd8f113c5789f6d194b628916eaf"
+          }
+        },
+        {
+          "client_id": "257967908431-ogvnss9jnh8sq3c2g4345vk47u9qq3jh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl0xU5G-sfNiAx_sfAYZRt9aus1SlDcps"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257967908431-ogvnss9jnh8sq3c2g4345vk47u9qq3jh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257967908431:android:92bdd6b471ea5e67",
+        "android_client_info": {
+          "package_name": "com.example.aprendizajeactivo.firebaseauto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257967908431-1mh3d7kaoj4vso5u97v9e0sh9lidpd48.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aprendizajeactivo.firebaseauto",
+            "certificate_hash": "796eb770b386bd8f113c5789f6d194b628916eaf"
+          }
+        },
+        {
+          "client_id": "257967908431-ogvnss9jnh8sq3c2g4345vk47u9qq3jh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl0xU5G-sfNiAx_sfAYZRt9aus1SlDcps"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257967908431-ogvnss9jnh8sq3c2g4345vk47u9qq3jh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257967908431:android:f463e213001f5143",
+        "android_client_info": {
+          "package_name": "com.example.aprendizajeactivo.what"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257967908431-a2uekmst343fg9f2k6g27a3ffka724sf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aprendizajeactivo.what",
+            "certificate_hash": "796eb770b386bd8f113c5789f6d194b628916eaf"
+          }
+        },
+        {
+          "client_id": "257967908431-ogvnss9jnh8sq3c2g4345vk47u9qq3jh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl0xU5G-sfNiAx_sfAYZRt9aus1SlDcps"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257967908431-ogvnss9jnh8sq3c2g4345vk47u9qq3jh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257967908431:android:619dd237241d3c7a",
+        "android_client_info": {
+          "package_name": "com.example.aprendizajeactivo.whatappdesk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257967908431-5k1nqob85bbdv8du0jnpqhhhfvgfsm51.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aprendizajeactivo.whatappdesk",
+            "certificate_hash": "796eb770b386bd8f113c5789f6d194b628916eaf"
+          }
+        },
+        {
+          "client_id": "257967908431-ogvnss9jnh8sq3c2g4345vk47u9qq3jh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl0xU5G-sfNiAx_sfAYZRt9aus1SlDcps"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257967908431-ogvnss9jnh8sq3c2g4345vk47u9qq3jh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257967908431:android:de04ab7db578aff6",
+        "android_client_info": {
+          "package_name": "firebaselistas.dmi.com.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257967908431-q7h6or38lraqamhblbg5bi8qga82phfq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "firebaselistas.dmi.com.whatsapp",
+            "certificate_hash": "d784ab6c47b0e6f24c169f69e4a49a19d9390f43"
+          }
+        },
+        {
+          "client_id": "257967908431-ogvnss9jnh8sq3c2g4345vk47u9qq3jh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl0xU5G-sfNiAx_sfAYZRt9aus1SlDcps"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257967908431-ogvnss9jnh8sq3c2g4345vk47u9qq3jh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
